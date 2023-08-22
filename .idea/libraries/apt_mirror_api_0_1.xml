@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="apt-mirror-api-0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/apt-mirror-api-0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jedis-4.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/apt-mirror-api-0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/jedis-4.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

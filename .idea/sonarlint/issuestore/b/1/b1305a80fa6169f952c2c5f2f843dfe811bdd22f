@@ -1,0 +1,82 @@
+
+L
+java:S37407"/Provide the parametrized type for this generic.(½„ä»8µã³Ó1
+b
+java:S1192š"EDefine a constant instead of duplicating this literal "');
+" 3 times.(“ıø&8¶ã³Ó1
+o
+java:S1192X"MDefine a constant instead of duplicating this literal "  (VOU_GUID," 5 times.(Ìç˜Ïøÿÿÿÿ8¶ã³Ó1
+
+java:S1192W"_Define a constant instead of duplicating this literal "insert into pbm_vou_detail_ass" 5 times.(…Ä´Àşÿÿÿÿ8¶ã³Ó1
+h
+java:S1192_"KDefine a constant instead of duplicating this literal "   VOU_NO," 5 times.(¶˜Å¹8¶ã³Ó1
+i
+java:S1192["LDefine a constant instead of duplicating this literal "   RG_CODE," 5 times.(Ü–Ç«8¶ã³Ó1
+r
+java:S1192h"PDefine a constant instead of duplicating this literal "   EXPECO_CODE," 5 times.(ÈúĞåÿÿÿÿÿ8¶ã³Ó1
+j
+java:S1192d"NDefine a constant instead of duplicating this literal "   ACCA_CODE," 5 times.(“†Ç8¶ã³Ó1
+Ó
+java:S1192m"°Define a constant instead of duplicating this literal "   values( '2023-gxdx-qc',SYS_GUID(),SYS_GUID(),'87', 2023,0, '101','0000','1','1', '101001','900302','2','-1'," 5 times.(ææóùÿÿÿÿ8¶ã³Ó1
+j
+java:S1192]"MDefine a constant instead of duplicating this literal "   FIS_PERD," 5 times.(²³»Ä8·ã³Ó1
+r
+java:S1192^"PDefine a constant instead of duplicating this literal "   AGENCY_CODE," 5 times.(Œì£öıÿÿÿÿ8·ã³Ó1
+n
+java:S1192n"LDefine a constant instead of duplicating this literal ",'QC','*','" 5 times.(úÿõÌşÿÿÿÿ8·ã³Ó1
+j
+java:S1192f"MDefine a constant instead of duplicating this literal "   STAD_AMT," 5 times.(ˆı•8·ã³Ó1
+n
+java:S1192i"QDefine a constant instead of duplicating this literal "   PROJECT_CODE," 5 times.(«ÁÛ·8·ã³Ó1
+q
+java:S1192l"ODefine a constant instead of duplicating this literal "   QUOTA_CODE)" 5 times.(è‚Œ½üÿÿÿÿ8·ã³Ó1
+n
+java:S1192`"LDefine a constant instead of duplicating this literal "   VOU_SEQ," 5 times.(÷³´ªıÿÿÿÿ8·ã³Ó1
+v
+java:S1192Z"TDefine a constant instead of duplicating this literal "   DETAIL_ASS_GUID," 5 times.(¡Úˆõøÿÿÿÿ8·ã³Ó1
+r
+java:S1192Y"PDefine a constant instead of duplicating this literal "   DETAIL_GUID," 5 times.(Ã¦±äùÿÿÿÿ8·ã³Ó1
+k
+java:S1192c"NDefine a constant instead of duplicating this literal "   ACCO_CODE," 5 times.(ôä¸8·ã³Ó1
+k
+java:S1192k"NDefine a constant instead of duplicating this literal "   BILL_DATE," 5 times.(ƒ·­¼8·ã³Ó1
+o
+java:S1192j"RDefine a constant instead of duplicating this literal "   VOU_TYPE_CODE," 5 times.(¶ÅÕë8·ã³Ó1
+j
+java:S1192g"MDefine a constant instead of duplicating this literal "   VOU_KIND," 5 times.(èš½Œ8·ã³Ó1
+p
+java:S1192a"SDefine a constant instead of duplicating this literal "   VOU_DETAIL_SEQ," 5 times.(Èğ€ 8·ã³Ó1
+k
+java:S1192b"NDefine a constant instead of duplicating this literal "   ACCT_CODE," 5 times.(ëÖŞ¿8·ã³Ó1
+l
+java:S1192e"JDefine a constant instead of duplicating this literal "   DR_CR," 5 times.(Û×ÛÑûÿÿÿÿ8·ã³Ó1
+j
+java:S1192\"MDefine a constant instead of duplicating this literal "   SET_YEAR," 5 times.(¼ÈÄ8·ã³Ó1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æŞ¤çøÿÿÿÿ8¹ã³Ó1
+i
+java:S20952"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(¿ù¬8½ä³Ó1
+n
+java:S20951"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(”ñ½˜ıÿÿÿÿ8½ä³Ó1
+X	java:S125:"<This block of commented-out lines of code should be removed.(§Œ™8Åä³Ó1
+T
+java:S1854S"7Remove this useless assignment to local variable "pro".( Âú8Çä³Ó1
+E
+java:S1481S"(Remove this unused "pro" local variable.( Âú8Çä³Ó1
+^	java:S125´"<This block of commented-out lines of code should be removed.(¬Ê¤’ıÿÿÿÿ8Êä³Ó1
+p
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(æ¸ÖÒ8Ìä³Ó1
+\
+java:S1854Ş">Remove this useless assignment to local variable "difference".(£Åä«8Ìä³Ó1
+\
+java:S2130Ş">Use "Double.parseDouble" for this string-to-double conversion.(£Åä«8Íä³Ó1
+[	java:S106â"9Replace this use of System.out or System.err by a logger.(×“ßúÿÿÿÿ8Íä³Ó1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Óä³Ó1
+P
+java:S1144J".Remove this unused private "firstStep" method.(¥Ã½×ÿÿÿÿÿ8Óä³Ó1
+Q
+java:S1144R"/Remove this unused private "secondStep" method.(ñÕÄØÿÿÿÿÿ8Óä³Ó1
+K
+java:S1144q".Remove this unused private "quotaCode" method.(ØÉ˜Ñ8Óä³Ó1
+N
+java:S1144¹"0Remove this unused private "quotaCode01" method.(òÊ–÷8Óä³Ó1

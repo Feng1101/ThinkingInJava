@@ -1,0 +1,14 @@
+
+K
+java:S1121".Extract the assignment out of this expression.(ôò…å8ùÑ¯Ü1
+1
+java:S1700"Rename field "count"(˜ì’ˆ8ùÑ¯Ü1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂõÍ™8úÑ¯Ü1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ÕñÓ¥ÿÿÿÿÿ8ŠÒ¯Ü1
+{
+java:S21420"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ŠÒ¯Ü1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(€¨Îõ8ŠÒ¯Ü1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(ëû…›8ŠÒ¯Ü1
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(¹’Óü8Ò¯Ü1
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(­ª®Ä8Ò¯Ü1
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(ì‹’ú8Ò¯Ü1

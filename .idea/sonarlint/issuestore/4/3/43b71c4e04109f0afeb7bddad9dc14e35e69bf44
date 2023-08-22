@@ -1,0 +1,6 @@
+
+`	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+>
+java:S16041"(Make this anonymous inner class a lambda(åç Ø
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–øÓ¦
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ëê†•

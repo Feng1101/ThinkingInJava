@@ -1,0 +1,19 @@
+
+k
+java:S1192	"IDefine a constant instead of duplicating this literal "test.zip" 3 times.(«éıéùÿÿÿÿ8®éÂû0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”¥±³8¯éÂû0
+g
+java:S2095-"EUse try-with-resources or close this "ZipFile" in a "finally" clause.(ÑåÙˆıÿÿÿÿ8óêÂû0
+t
+java:S2095"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(½€¼şÿÿÿÿ8óêÂû0
+h
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(„şİ<8óêÂû0
+s
+java:S2095!"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(íøñôûÿÿÿÿ8óêÂû0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(é­²Ó8øêÂû0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ë”×8úêÂû0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¤Áˆ8úêÂû0
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ü»††8ûêÂû0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(¢ï¢êûÿÿÿÿ8üêÂû0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Õ¿Üüÿÿÿÿ8üêÂû0
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(íáÕ8ê£ôû0

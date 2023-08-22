@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æŞ¤çøÿÿÿÿ8±âª”‚1
+i
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(¿ù¬8Îãª”‚1
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(”ñ½˜ıÿÿÿÿ8Îãª”‚1
+W
+java:S1854":Remove this useless assignment to local variable "oQuote".(Ó¨ññ8Ğãª”‚1
+W
+java:S1854 ":Remove this useless assignment to local variable "oQuote".(Ğ¨›¨8Ğãª”‚1
+H
+java:S1481"+Remove this unused "oQuote" local variable.(¡ˆ÷8Ôãª”‚1
+]	java:S125o"<This block of commented-out lines of code should be removed.(¬Ê¤’ıÿÿÿÿ8Ùãª”‚1

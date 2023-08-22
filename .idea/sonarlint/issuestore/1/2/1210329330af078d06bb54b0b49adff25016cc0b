@@ -1,0 +1,14 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(òİÙäùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–øÓ¦
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S2093""*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S20938"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(±ØÚùÿÿÿÿ

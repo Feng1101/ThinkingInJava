@@ -1,0 +1,21 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+^
+java:S1192""IDefine a constant instead of duplicating this literal "temp.tmp" 6 times.(Ø·Î 
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñÚŸÍ
+c
+java:S2095""NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(Ø·Î 
+i
+java:S2095,"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(™íµÐúÿÿÿÿ
+i
+java:S2095A"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(™íµÐúÿÿÿÿ
+i
+java:S2095V"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(ƒÆ¢¸þÿÿÿÿ
+i
+java:S2095K"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Ðö­Þýÿÿÿÿ
+c
+java:S20957"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(·ß»µ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øñËŠùÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÿ¯¬·øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ¯¬·øÿÿÿÿ

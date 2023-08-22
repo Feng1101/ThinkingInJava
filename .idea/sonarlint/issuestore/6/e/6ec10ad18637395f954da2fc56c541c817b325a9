@@ -1,0 +1,54 @@
+
+‰
+java:S1192"nDefine a constant instead of duplicating this literal "C:\\Users\\swall\\Desktop\\ä¸´æ—¶\\output.txt" 4 times.(ğü¶ğüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æŞ¤çøÿÿÿÿ
+g
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ
+h
+java:S2095¦"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ
+b
+java:S2095G"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Íà¸İ
+c
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Íà¸İ
+b
+java:S2095$"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Íà¸İ
+g
+java:S2095="LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ
+g
+java:S2095["LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÌâÅıÿÿÿÿ
+b
+java:S2095]"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(°³Ï³
+g
+java:S2095w"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ
+c
+java:S2095°"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Íà¸İ
+V
+java:S1854";Remove this useless assignment to local variable "setYear".(â³»Åùÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(²Á€œüÿÿÿÿ
+G
+java:S1481",Remove this unused "setYear" local variable.(â³»Åùÿÿÿÿ
+S
+java:S1854'"8Remove this useless assignment to local variable "test".(îø«ºşÿÿÿÿ
+W	java:S899""BDo something with the "boolean" value returned by "createNewFile".(×êì
+<
+java:S1481&"&Remove this unused "i" local variable.(»ŸÜš
+;
+java:S2129'" Remove this "String" constructor(îø«ºşÿÿÿÿ
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(Äş!
+S
+java:S1854J"8Remove this useless assignment to local variable "test".(îø«ºşÿÿÿÿ
+W	java:S899E"BDo something with the "boolean" value returned by "createNewFile".(×êì
+;
+java:S2129J" Remove this "String" constructor(îø«ºşÿÿÿÿ
+M	java:S106M"9Replace this use of System.out or System.err by a logger.(Äş!
+\	java:S899Y"BDo something with the "boolean" value returned by "createNewFile".(šÉ×¡üÿÿÿÿ
+W	java:S899"BDo something with the "boolean" value returned by "createNewFile".(×êì
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(½³€Æùÿÿÿÿ
+N	java:S106˜"9Replace this use of System.out or System.err by a logger.(Äş!
+X	java:S899®"BDo something with the "boolean" value returned by "createNewFile".(×êì
+N	java:S106È"9Replace this use of System.out or System.err by a logger.(Äş!
+P
+java:S1128"5Remove this unused import 'java.nio.charset.Charset'.(ü¶ØŸıÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ

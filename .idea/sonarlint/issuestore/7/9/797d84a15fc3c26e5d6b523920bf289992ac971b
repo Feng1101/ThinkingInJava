@@ -1,0 +1,13 @@
+
+a
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(äžÉÎùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÞà¡
+i
+java:S2095"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(©Ãî»ùÿÿÿÿ
+i
+java:S2095"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(€ãµ´úÿÿÿÿ
+d
+java:S2095"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(×Œùµ
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(°Æ×
+N	java:S106"9Replace this use of System.out or System.err by a logger.(å°¾¡

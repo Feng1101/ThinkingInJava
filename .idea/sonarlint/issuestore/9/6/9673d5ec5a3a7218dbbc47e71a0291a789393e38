@@ -1,0 +1,8 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Êàâ¬8½ËØş0
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÊáËÖÿÿÿÿÿ8½ËØş0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çğ¯Áıÿÿÿÿ8¿ËØş0
+V
+java:S1161":Add the "@Override" annotation above this method signature(š¢v8ÄËØş0
+V
+java:S1161":Add the "@Override" annotation above this method signature(š¢v8ÆËØş0

@@ -1,0 +1,4 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«Õ’É
+W
+java:S3078"AUse an "AtomicInteger" for this field; its operations are atomic.(ËºÁž

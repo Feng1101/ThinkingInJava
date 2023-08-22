@@ -1,0 +1,13 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(¶ñ¸Š
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£¹ùÜ
+1
+java:S3626 "Remove this redundant jump.(ûÁÝ…
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿœ«©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+H
+java:S1128"3Remove this unused import 'javafx.concurrent.Task'.(Úåôg

@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÕûºÿÿÿÿÿ8ÅáŸ’û0
+l
+java:S2095:"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(æÒâÉ8ÎáŸ’û0
+m
+java:S20956"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(‹Çö¶8ÎáŸ’û0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(á¡óÙ8ÒáŸ’û0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…®ÁÏùÿÿÿÿ8ÓáŸ’û0
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(¤±ûÅ8ÕáŸ’û0
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(Òã³ßùÿÿÿÿ8ÙáŸ’û0
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ÿİ¡üÿÿÿÿ8ÚáŸ’û0

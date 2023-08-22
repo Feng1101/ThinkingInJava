@@ -1,0 +1,17 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”¥±³8”íûû0
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(€—•¨8Ãíûû0
+n
+java:S2095 "LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¼À¬ùıÿÿÿÿ8Ãíûû0
+t
+java:S2095"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(è¨ò¾øÿÿÿÿ8Ãíûû0
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÆÀûı8Èíûû0
+T
+java:S6126"2Replace this String concatenation with Text block.(ıÚ²ªøÿÿÿÿ8Èíûû0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(äÇû8Ñíûû0
+]	java:S125"<This block of commented-out lines of code should be removed.(º–²Îùÿÿÿÿ8“±û0
+]	java:S125"<This block of commented-out lines of code should be removed.(‰°Àúÿÿÿÿ8¦Ñ‚û0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³×–Åüÿÿÿÿ8Òíûû0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8Ôíûû0

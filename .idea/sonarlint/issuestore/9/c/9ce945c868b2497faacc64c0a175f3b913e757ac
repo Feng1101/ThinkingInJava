@@ -1,0 +1,25 @@
+
+f
+java:S1301K"KReplace this "switch" statement by "if" statements to increase readability.(¿á ûýÿÿÿÿ
+a
+java:S1301T"KReplace this "switch" statement by "if" statements to increase readability.(”‰Áå
+`
+java:S1301W"KReplace this "switch" statement by "if" statements to increase readability.(«›ái
+f
+java:S1301b"KReplace this "switch" statement by "if" statements to increase readability.(Üê£Ëþÿÿÿÿ
+`
+java:S1301e"KReplace this "switch" statement by "if" statements to increase readability.(«›ái
+a
+java:S1301p"KReplace this "switch" statement by "if" statements to increase readability.(þž›§
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çð¯Áýÿÿÿÿ
+i
+java:S2272:"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(·þë‡ûÿÿÿÿ
+U
+java:S1161=":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(…Ì¨Ü
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÈÄ½˜
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(ºðìï
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(íš¶ó
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(¿Ìºåùÿÿÿÿ
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(”ßü¨
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(ª“ÿÏüÿÿÿÿ

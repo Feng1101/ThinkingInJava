@@ -1,0 +1,7 @@
+
+g	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅýÿÿÿÿ8Š¾¢õ€1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈËÀÛ8Œ¾¢õ€1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Å› ø8ŒÀ¢õ€1
+`
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(á½®Íûÿÿÿÿ8’À¢õ€1

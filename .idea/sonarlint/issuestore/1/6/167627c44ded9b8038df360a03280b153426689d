@@ -1,0 +1,11 @@
+
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñÚŸÍ
+d
+java:S2095"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(ë›Ö¢
+<
+java:S1659"!Declare "end" on a separate line.(©Ô‹ýÿÿÿÿ
+P
+java:S1161(":Add the "@Override" annotation above this method signature(“–ýþ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ƒ°á²øÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(¦Íê†ÿÿÿÿÿ
