@@ -20,10 +20,12 @@ public class ThreatAnalyzer {
         while (scanner.hasNext(pattern)){
             scanner.next(pattern);
             MatchResult match = scanner.match();
+            String test=match.group(0);
             String ip = match.group(1);
             String date = match.group(2);
+            System.out.println("all: "+test);
             System.out.println("ip: "+ip);
-            System.out.println("date: "+date);
+            System.out.println("date: "+date+"\n");
         }
     }
 }

@@ -18,6 +18,7 @@ class Accessor implements Runnable{
             System.out.println(this);
             Thread.yield();
         }
+        ThreadLocalVariableHolder.remove();
     }
     public String toString(){
         return "#"+id + ": "+ThreadLocalVariableHolder.get();
@@ -39,6 +40,7 @@ public class ThreadLocalVariableHolder {
     public static Integer get(){
         return value.get();
     }
+    public static void remove(){value.remove();}
 
     public static void main(String[] args) throws Exception{
         ExecutorService exec = Executors.newCachedThreadPool();
@@ -46,6 +48,6 @@ public class ThreadLocalVariableHolder {
             exec.execute(new Accessor(i));
         }
         TimeUnit.SECONDS.sleep(1);
-        exec.shutdown();
+        exec.shutdownNow();
     }
 }
